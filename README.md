@@ -1,5 +1,5 @@
 # AI-for-data-science
-Sharing resources for using AI for environmental data science
+Sharing resources for using AI for environmental data science. We primarily use R and follow reproducible science tools and workflows.
 
 ## Resources
 
