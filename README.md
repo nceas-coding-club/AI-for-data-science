@@ -1,9 +1,14 @@
 # AI-for-data-science
 Creating a space to chat, share, and create AI for environmental data science. We primarily use R and follow open-science and reproducible tools and workflows.
 
+## Next steps
+- set up `.claude/` folder in this repo to hold R data science relevant configurations and resources
+
+![claude directory architecture](./images/linkedin-claude-proj-dir.jpg)
+
 ## Resources
 
-Sharing links and resouces for AI in datascience
+Sharing resouces for AI in datascience
 
 ### Basics / General
 - [IBM prompt engineering handbook](https://www.ibm.com/think/prompt-engineering#605511093)
