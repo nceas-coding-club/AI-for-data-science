@@ -19,6 +19,11 @@ Sharing links and resouces for AI in datascience
 - []()
 - []()
 
+### Different models
+
+#### Claude
+- [Claude CLI documentation](https://code.claude.com/docs/en/quickstart)
+
 ## Challenges we have observed and looking to fix
 - []()
 - []()
