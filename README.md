@@ -6,9 +6,17 @@ Sharing resources for using AI for environmental data science
 Sharing links and resouces for AI in datascience
 
 ### Basics
+- []()
+- []()
+- []()
 
 ### Specifically for R
+- []()
+- []()
 
 ### Agents
+
+- []()
+- []()
 
 ### 
