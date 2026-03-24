@@ -9,15 +9,11 @@ Sharing links and resouces for AI in datascience
 - [IBM prompt engineering handbook](https://www.ibm.com/think/prompt-engineering#605511093)
 - [UC Davis Data Lab open-source LLM setup](https://ucdavisdatalab.github.io/workshop_llm_with_ollama/chapters/index.html)
 - [ESIP Data Readiness Cluster - Context Engineering for Environmental Data Systems](https://www.youtube.com/watch?v=IYkZCcEwXpQ)
-
-### Specifically for R
-- []()
-- []()
+- [Turn GitHub Repo into text for LLM](https://blog.stephenturner.us/p/github-repo-to-text-for-llm-input)
+- [Stanford CS224N: Natural Language Processing with Deep Learning | Winter 2021](https://www.youtube.com/playlist?list=PLoROMvodv4rMFqRtEuo6SGjY4XbRIVRd4) (if you want to learn more about the innerworkings of LLMs)
 
 ### Agents
 
-- []()
-- []()
 
 ### Different models
 
