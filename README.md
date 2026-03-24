@@ -22,3 +22,5 @@ Sharing links and resouces for AI in datascience
 ## Challenges we have observed and looking to fix
 - []()
 - []()
+- implementing coding style guides and formatting 
+- 
