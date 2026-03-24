@@ -23,6 +23,10 @@ Sharing links and resouces for AI in datascience
 
 #### Claude
 - [Claude CLI documentation](https://code.claude.com/docs/en/quickstart)
+- [Use of Claude with R example](https://www.simonpcouch.com/blog/2025-07-17-claude-code-2/)
+
+#### Positron
+- [Positron CLI documentation](https://positron.posit.co/)
 
 ## Challenges we have observed and looking to fix
 - []()
