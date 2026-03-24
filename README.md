@@ -19,4 +19,6 @@ Sharing links and resouces for AI in datascience
 - []()
 - []()
 
-### 
+## Challenges we have observed and looking to fix
+- []()
+- []()
