@@ -14,11 +14,15 @@ Sharing links and resouces for AI in datascience
 
 ### Agents
 
+### Skills
+- [GitHub repo - Claude Code configurations for R development](https://github.com/ab604/claude-code-r-skills)
+- [Claude skills for R](https://www.r-bloggers.com/2026/03/a-few-claude-skills-for-r-users/)
 
 ### Different models
 
 #### Claude
-- [Claude CLI documentation](https://code.claude.com/docs/en/quickstart)
+- [Claude Code (CLI) documentation](https://code.claude.com/docs/en/quickstart)
+- [Getting started with Claude code](https://www.dataquest.io/blog/getting-started-with-claude-code-for-data-scientists/)
 - [Use of Claude with R example](https://www.simonpcouch.com/blog/2025-07-17-claude-code-2/)
 
 #### Positron
