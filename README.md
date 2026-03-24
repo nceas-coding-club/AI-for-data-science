@@ -5,10 +5,10 @@ Sharing resources for using AI for environmental data science. We primarily use 
 
 Sharing links and resouces for AI in datascience
 
-### Basics
+### Basics / General
 - []()
 - []()
-- []()
+- [ESIP Data Readiness Cluster - Context Engineering for Environmental Data Systems](https://www.youtube.com/watch?v=IYkZCcEwXpQ)
 
 ### Specifically for R
 - []()
