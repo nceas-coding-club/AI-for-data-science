@@ -16,6 +16,7 @@ Sharing resouces for AI in datascience
 - [ESIP Data Readiness Cluster - Context Engineering for Environmental Data Systems](https://www.youtube.com/watch?v=IYkZCcEwXpQ)
 - [Turn GitHub Repo into text for LLM](https://blog.stephenturner.us/p/github-repo-to-text-for-llm-input)
 - [Stanford CS224N: Natural Language Processing with Deep Learning | Winter 2021](https://www.youtube.com/playlist?list=PLoROMvodv4rMFqRtEuo6SGjY4XbRIVRd4) (if you want to learn more about the innerworkings of LLMs)
+- [Creating context structure for your projects](https://github.com/andrefigueira/.context/)
 
 ### Agents
 
@@ -29,9 +30,12 @@ Sharing resouces for AI in datascience
 - [Claude Code (CLI) documentation](https://code.claude.com/docs/en/quickstart)
 - [Getting started with Claude code](https://www.dataquest.io/blog/getting-started-with-claude-code-for-data-scientists/)
 - [Use of Claude with R example](https://www.simonpcouch.com/blog/2025-07-17-claude-code-2/)
+- [Claude code tips](https://github.com/ykdojo/claude-code-tips)
+- [Writing a good CLAUDE.md](https://www.humanlayer.dev/blog/writing-a-good-claude-md)
 
 #### Positron
 - [Positron CLI documentation](https://positron.posit.co/)
+- [Positron assistant chat instructions](https://positron.posit.co/assistant-chat-instructions.html)
 
 ## Challenges we have observed and looking to fix
 - implementing coding style guides and formatting 
