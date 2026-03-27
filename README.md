@@ -17,6 +17,7 @@ Sharing resouces for AI in datascience
 - [Turn GitHub Repo into text for LLM](https://blog.stephenturner.us/p/github-repo-to-text-for-llm-input)
 - [Stanford CS224N: Natural Language Processing with Deep Learning | Winter 2021](https://www.youtube.com/playlist?list=PLoROMvodv4rMFqRtEuo6SGjY4XbRIVRd4) (if you want to learn more about the innerworkings of LLMs)
 - [Creating context structure for your projects](https://github.com/andrefigueira/.context/)
+- [EDS Seminar. 3/3/2026. Al for Environmental Researchers: Part I: The Mental Model You Need](https://www.youtube.com/watch?v=sg5rQUFe5o4)
 
 ### Agents
 
