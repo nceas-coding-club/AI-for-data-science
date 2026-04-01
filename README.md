@@ -33,6 +33,7 @@ Sharing resouces for AI in datascience
 - [Use of Claude with R example](https://www.simonpcouch.com/blog/2025-07-17-claude-code-2/)
 - [Claude code tips](https://github.com/ykdojo/claude-code-tips)
 - [Writing a good CLAUDE.md](https://www.humanlayer.dev/blog/writing-a-good-claude-md)
+- [Claude Directory - like the image above](https://code.claude.com/docs/en/claude-directory)
 
 #### Positron
 - [Positron CLI documentation](https://positron.posit.co/)
