@@ -24,6 +24,8 @@ Sharing resouces for AI in datascience
 ### Skills
 - [GitHub repo - Claude Code configurations for R development](https://github.com/ab604/claude-code-r-skills)
 - [Claude skills for R](https://www.r-bloggers.com/2026/03/a-few-claude-skills-for-r-users/)
+- [More Claude skills for R](https://rworks.dev/posts/claude-skills-for-r-users/)
+- [Poist Claude Skills](https://github.com/posit-dev/skills?tab=readme-ov-file#installation)
 
 ### Different models
 
