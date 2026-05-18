@@ -21,11 +21,17 @@ Sharing resouces for AI in datascience
 
 ### Agents
 
+- [Local GenAI Agent management - can use many models](http://www.the-warp.com/agents.html)
+- [Agentic Coding for R — Workshops for Ukraine](https://github.com/lobsterbush/workshops-for-ukraine/tree/master/skills)
+  - [Full Workshop slides](https://lobsterbush.github.io/workshops-for-ukraine/)
+  - [Things to check GenAI results for](https://lobsterbush.github.io/workshops-for-ukraine/#/19/0/5)
+
 ### Skills
 - [GitHub repo - Claude Code configurations for R development](https://github.com/ab604/claude-code-r-skills)
 - [Claude skills for R](https://www.r-bloggers.com/2026/03/a-few-claude-skills-for-r-users/)
 - [More Claude skills for R](https://rworks.dev/posts/claude-skills-for-r-users/)
 - [Poist Claude Skills](https://github.com/posit-dev/skills?tab=readme-ov-file#installation)
+- [Agentic Coding for R — Workshops for Ukraine - Skills .md examples](https://github.com/lobsterbush/workshops-for-ukraine/tree/master/skills)
 
 ### Different models
 
@@ -37,12 +43,15 @@ Sharing resouces for AI in datascience
 - [Writing a good CLAUDE.md](https://www.humanlayer.dev/blog/writing-a-good-claude-md)
 - [Claude Directory - like the image above](https://code.claude.com/docs/en/claude-directory)
 
-#### Positron
+#### Posit
 - [Positron CLI documentation](https://positron.posit.co/)
 - [Positron assistant chat instructions](https://positron.posit.co/assistant-chat-instructions.html)
+- [Posit AI](https://posit.co/products/ai)
 
 ## Challenges we have observed and looking to fix
-- implementing coding style guides and formatting 
+- implementing coding style guides and formatting - (could solve with a skill or agent.md context)
 - repetative context setting in Positron Assistant chat
 - general model doesn't have the skills for nuanced data science tasks
-- 
+
+## Reference GenAI Policies 
+- [Timothée Poisot](https://epic-biodiversity.org/generative-ai/)
