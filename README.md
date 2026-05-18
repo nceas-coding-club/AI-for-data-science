@@ -6,11 +6,11 @@ Creating a space to chat, share, and create AI for environmental data science. W
 
 ![claude directory architecture](./images/linkedin-claude-proj-dir.jpg)
 
-## Resources
+# Resources
 
 Sharing resouces for AI in datascience
 
-### Basics / General
+## Basics / General
 - [IBM prompt engineering handbook](https://www.ibm.com/think/prompt-engineering#605511093)
 - [UC Davis Data Lab open-source LLM setup](https://ucdavisdatalab.github.io/workshop_llm_with_ollama/chapters/index.html)
 - [ESIP Data Readiness Cluster - Context Engineering for Environmental Data Systems](https://www.youtube.com/watch?v=IYkZCcEwXpQ)
@@ -19,23 +19,23 @@ Sharing resouces for AI in datascience
 - [Creating context structure for your projects](https://github.com/andrefigueira/.context/)
 - [EDS Seminar. 3/3/2026. Al for Environmental Researchers: Part I: The Mental Model You Need](https://www.youtube.com/watch?v=sg5rQUFe5o4)
 
-### Agents
+## Agents
 
 - [Local GenAI Agent management - can use many models](http://www.the-warp.com/agents.html)
 - [Agentic Coding for R — Workshops for Ukraine](https://github.com/lobsterbush/workshops-for-ukraine/tree/master/skills)
   - [Full Workshop slides](https://lobsterbush.github.io/workshops-for-ukraine/)
   - [Things to check GenAI results for](https://lobsterbush.github.io/workshops-for-ukraine/#/19/0/5)
 
-### Skills
+## Skills
 - [GitHub repo - Claude Code configurations for R development](https://github.com/ab604/claude-code-r-skills)
 - [Claude skills for R](https://www.r-bloggers.com/2026/03/a-few-claude-skills-for-r-users/)
 - [More Claude skills for R](https://rworks.dev/posts/claude-skills-for-r-users/)
 - [Poist Claude Skills](https://github.com/posit-dev/skills?tab=readme-ov-file#installation)
 - [Agentic Coding for R — Workshops for Ukraine - Skills .md examples](https://github.com/lobsterbush/workshops-for-ukraine/tree/master/skills)
 
-### Different models
+## Different models and providers
 
-#### Claude
+### Claude
 - [Claude Code (CLI) documentation](https://code.claude.com/docs/en/quickstart)
 - [Getting started with Claude code](https://www.dataquest.io/blog/getting-started-with-claude-code-for-data-scientists/)
 - [Use of Claude with R example](https://www.simonpcouch.com/blog/2025-07-17-claude-code-2/)
@@ -43,7 +43,7 @@ Sharing resouces for AI in datascience
 - [Writing a good CLAUDE.md](https://www.humanlayer.dev/blog/writing-a-good-claude-md)
 - [Claude Directory - like the image above](https://code.claude.com/docs/en/claude-directory)
 
-#### Posit
+### Posit
 - [Positron CLI documentation](https://positron.posit.co/)
 - [Positron assistant chat instructions](https://positron.posit.co/assistant-chat-instructions.html)
 - [Posit AI](https://posit.co/products/ai)
