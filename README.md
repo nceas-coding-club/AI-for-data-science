@@ -2,7 +2,7 @@
 Creating a space to chat, share, and create AI for environmental data science. We primarily use R and follow open-science and reproducible tools and workflows.
 
 ## Next steps
-- set up `.claude/` folder in this repo to hold R data science relevant configurations and resources
+- set up `.claude/` folder in this repo to hold R data science relevant configurations and resources (or more general `agent.md` convention emerging) 
 
 ![claude directory architecture](./images/linkedin-claude-proj-dir.jpg)
 
