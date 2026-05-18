@@ -21,7 +21,8 @@ Sharing resouces for AI in datascience
 
 ## Agents
 
-- [Local GenAI Agent management - can use many models](http://www.the-warp.com/agents.html)
+- [Warp - "Agentic Development Environment" - coding with agents - can use many models](http://www.the-warp.com/agents.html)
+  - [Warp Guide](https://docs.warp.dev/guides/)
 - [Agentic Coding for R — Workshops for Ukraine](https://github.com/lobsterbush/workshops-for-ukraine/tree/master/skills)
   - [Full Workshop slides](https://lobsterbush.github.io/workshops-for-ukraine/)
   - [Things to check GenAI results for](https://lobsterbush.github.io/workshops-for-ukraine/#/19/0/5)
